@@ -1,0 +1,11 @@
+#
+# Help doc for anybody interested in understanding more about this code base
+# Created By: Damien Owen
+# Created On: Fri 29 June 2018
+#
+
+while true
+do
+	echo "hello world"
+	sleep 1
+done
